@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+*{
+    font-family: 'Quicksand', sans-serif;
+    background-color: #0077b6;
+}
+
+.middlePhoto1, .middlePhoto2, .middlePhoto3, .middlePhoto4, .middlePhoto5{
+    width: 15%;
+    padding-right: 2%;
+    padding-left: 2%;
+    background: none;
+}
