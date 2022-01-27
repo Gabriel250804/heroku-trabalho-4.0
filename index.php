@@ -14,6 +14,9 @@
 </head>
 
 <body>
+ <img src="cabo.jfif">
+ <img src="lixo.jfif">
+ <img src="serie.jfif">
  <h1>Aula Heroku_4.0</h1>
 </body> 
 
